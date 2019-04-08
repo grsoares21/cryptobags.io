@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>ethereum &#8211; CryptoBags</title>
+	<atom:link href="/tag/ethereum/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A fonte de conhecimento crypto</description>
+	<lastBuildDate>
+	Mon, 16 Jul 2018 21:54:27 +0000	</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/03/cropped-favicon-1-32x32.png</url>
+	<title>ethereum &#8211; CryptoBags</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Contratos Inteligentes: uma nova dimensão para a Blockchain</title>
+		<link>/contratos-inteligentes-uma-nova-dimensao-para-a-blockchain/</link>
+				<pubDate>Wed, 02 May 2018 17:51:17 +0000</pubDate>
+		<dc:creator><![CDATA[Gabriel Soares]]></dc:creator>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[ethereum]]></category>
+		<category><![CDATA[smart contracts]]></category>
+
+		<guid isPermaLink="false">http://34.206.71.53/?p=713</guid>
+				<description><![CDATA[No primeiro artigo da série “Blockchain, Mudança de Paradigma”, vimos como Satoshi Nakamoto propôs uma nova moeda digital que não]]></description>
+								<content:encoded><![CDATA[<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">No <a href="/blockchain-como-tudo-comecou/">primeiro artigo</a> da série </span><i><span style="font-weight: 400;">“Blockchain, Mudança de Paradigma”, </span></i><span style="font-weight: 400;">vimos como Satoshi Nakamoto propôs uma nova moeda digital que não necessita de nenhuma autoridade central reguladora para existir, o Bitcoin. Para realizar isso ele/ela descreveu uma tecnologia chamada Blockchain, que nada mais é do que um banco de dados que guarda o valor detido por cada pessoa. Este sistema é seguro, muitas vezes considerado impossível de hackear, pois é descentralizado e utiliza incentivos econômicos para estimular os participantes a deixá-lo mais seguro. Já se passaram 10 anos desde que este sistema foi criado e muitas melhorias já foram efetuadas, mas a premissa de que ele é impossível de hackear continua verdadeira.</span></span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"><strong>Além da Bitcoin</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Por volta de 2013, a comunidade crypto começou a perceber que o conceito por trás da Blockchain poderia ser usado para realizar muito mais do que apenas moedas digitais. Um dos primeiros novos casos de uso foi a Namecoin, que utiliza a Blockchain para guardar informações importantes de identidade e evitar os riscos que vêm junto com a centralização. Você lembra do caso que aconteceu em 2016 no qual <a href="http://gizmodo.uol.com.br/servidor-dns-derrubou-internet/">boa parte da internet ficou fora do ar</a>? </span><span style="font-weight: 400;">Isso aconteceu pois um servidor de DNS (basicamente uma tabela que guarda informações sobre diversos sites para que o seu navegador saiba como acessá-los) foi atacado por hackers. A centralização deste tipo de serviço fez com que este ataque tivesse enormes impactos e boa parte do mundo ocidental ficasse incapaz de acessar sites como o Reddit, Twitter, Spotify. A Namecoin propõe, entre outras coisas, um serviço de DNS descentralizado, no qual ataques como esse seriam impossíveis ou teriam impactos mínimos, pois esta tabela estaria guardada em milhões de computadores (todos os participantes desta Blockchain) e não apenas em um único local.</span></span></p>
+<hr />
+<p style="text-align: justify;"><span style="color: #18188c; font-family: helvetica, arial, sans-serif;"><em><strong>Curiosidade:</strong> <span style="font-weight: 400;">enquanto este artigo estava sendo escrito (dia 24 de abril de 2018), outro ataque de DNS ocorreu, desta vez no mundo crypto. Registros de DNS do site MyEtherWallet (carteira de criptoativos online) foram trocados e os visitantes do site foram redirecionados para um site falso. Cerca de 150 mil dólares foram roubados em forma de criptoativos.</span></em></span></p>
+<hr />
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Ainda em 2013, uma pessoa chamada Vitalik Buterin propôs uma nova tecnologia que viria a se tornar rapidamente o segundo criptoativo mais valioso de todos, logo atrás da Bitcoin, a Ethereum. O raciocínio por trás da tecnologia é incrivelmente simples: em vez de criarmos uma Blockchain nova para cada aplicação com suas próprias regras, criaremos uma Blockchain programável, que é capaz de executar quaisquer regras imagináveis. No jargão tecnológico, ele criou uma Blockchain de propósito geral. A Blockchain da Ethereum não guarda apenas quantos Ethers (nome do ativo) cada pessoa possui, mas também guarda um conjunto de regras para que estes Ethers sejam transferidos de uma pessoa para outra. Estas regras são chamadas de contratos inteligentes (</span><i><span style="font-weight: 400;">smart contracts</span></i><span style="font-weight: 400;"> em inglês). Estes contratos não podem ser violados, pois uma vez que as condições do contrato sejam cumpridas, a Blockchain irá executar automaticamente todas as suas consequências, que geralmente se traduzem em transferências de ativos de uma pessoa para outra.</span></span></p>
+<hr />
+<p style="text-align: justify;"><span style="color: #18188c; font-family: helvetica, arial, sans-serif;"><em><strong>Curiosidade:</strong> <span style="font-weight: 400;">Vitalik Buterin nasceu em 1994, ou seja, tinha apenas 19 anos de idade propôs Ethereum.</span></em></span></p>
+<hr />
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"><strong>O quê são contratos inteligentes?</strong></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;"><img class="size-medium alignright" src="https://i.giphy.com/media/9UTGNBE2QCnq8/giphy.webp" alt="Burlando máquina de refrigerantes" width="350" height="248" />Para entender melhor tudo isso, vamos analisar o que é um contrato inteligente. Este termo foi criado em 1996 por um cientista da computação chamado Nick Szabo. Segundo ele, o jeito mais simples de entender um contrato inteligente é pensar em uma máquina de refrigerantes. Toda máquina de refrigerantes possui um contrato que é executado automaticamente com regras bem definidas:</span></p>
+<ul style="text-align: justify;">
+<li style="font-weight: 400;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Você insere dinheiro, e então recebe refrigerante</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Inserir dinheiro e não receber refrigerante é uma violação do contrato</span></li>
+<li style="font-weight: 400;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Receber refrigerante sem inserir dinheiro também é uma violação do contrato</span></li>
+</ul>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">É fácil de entender como a máquina de refrigerantes executa este contrato entre você e ela automaticamente.</span></p>
+<hr />
+<p style="text-align: justify;"><span style="color: #18188c; font-family: helvetica, arial, sans-serif;"><em><strong>Curiosidade:</strong> <span style="font-weight: 400;">muitos acreditam que <strong>Nick Szabo</strong> é a verdadeira identidade de <strong>Satoshi Nakamoto</strong>. Em 1998, Nick propôs um sistema de moeda digital descentralizado que utilizaria incentivos econômicos e criptografia como seu protocolo de segurança, na época ele chamou este sistema de <strong>“Bit Gold”</strong>. Em 2008, pouco antes, da <strong>Bitcoin</strong> ser criada, Nick teria comentado em um fórum que estava implementando este sistema. Nick nega qualquer alegação de que ele é Satoshi Nakamoto.</span></em></span></p>
+<hr />
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Agora vamos estender este conceito ao contrato entre duas pessoas. Quando você vende uma casa, por exemplo, você assina um contrato com o comprador citando todas as regras deste contrato incluindo o preço a ser pago e a forma de pagamento. Após isso você vai ao cartório e registra a transferência da propriedade desta casa ao comprador.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;"><img class="alignleft" src="https://media.giphy.com/media/xUOrwlI2plti5cJfgI/giphy.gif" alt="Assinando contrato" width="369" height="207" />Neste caso, o Estado (acessado através do cartório), é o responsável por determinar quem possui aquela casa. Entretanto, nós já vimos que a Blockchain pode servir para registrar muito mais do que propriedade de moedas. Imagine então que o registro da sua casa não seja um documento guardado em um arquivo do cartório, mas sim um registro na Blockchain. Assim, um contrato inteligente poderia ser programado, listando todas as regras da venda da sua casa. Uma vez que ele seja assinado pelas duas partes do contrato (comprador e vendedor utilizando suas senhas privadas, falarei mais sobre isso em outro artigo), a Blockchain irá automaticamente executar a transferência do dinheiro (em forma de criptomoedas) para você e a transferência do registro da sua casa para o comprador. Em nenhum momento você precisaria ir ao cartório para executar essa transferência ou o comprador precisaria ir ao banco pedir a transferência do dinheiro para você, isso seria feito automaticamente, o que é extremamente mais eficiente em muitos sentidos.<br />
+</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Outro benefício dos contratos inteligentes é a eliminação de qualquer tipo de fraude. Imagine que o vendedor transfira o registro no cartório mas o comprador não realize o pagamento, isto seria uma violação do contrato e uma disputa judicial teria que ser feita. No caso da Blockchain, o comprador não teria como fazer isso, pois essas duas transferências ocorreriam atomicamente, ou as duas acontecem, ou nenhuma das duas, exatamente como na máquina de refrigerantes.</span></p>
+<p style="text-align: justify;"><span style="font-size: 12pt; font-family: helvetica, arial, sans-serif;"><strong>Um mundo de possibilidades</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Não é difícil imaginar como este conceito pode ser aplicado em milhares de outros casos e irá revolucionar muitos outros mercados. Já existem aplicações descentralizadas utilizando Blockchain para resolver os mais diversos tipos de problemas, desde redes sociais até a venda e compra de energia renovável. Se quiser saber mais sobre isto leia o nosso artigo <a href="/blockchain-muito-alem-das-moedas-digitais/">Blockchain: muito além das moedas digitais</a>. No próximo artigo iremos analisar com mais detalhes a Blockchain de propósito geral da Ethereum e entender melhor o que são </span><i><span style="font-weight: 400;">tokens</span></i><span style="font-weight: 400;"> e qual o seu papel nisso tudo.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><b>Referências</b></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Artigos como este exigem uma enorme simplificação dos conceitos abordados para manter a simplicidade e legibilidade. Criptomoedas é um assunto que envolve uma quantidade enorme de campos de estudo como: criptografia, sistemas distribuídos, bancos de dados, teoria dos jogos, macroeconomia e microeconomia. Deixo aqui uma lista de referências para todos que tiverem vontade de se aprofundar em alguns dos assuntos abordados neste artigo:</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Procedimento atual da compra e venda de imóveis no Brasil &#8211; </span><a href="https://lucascezar.jusbrasil.com.br/artigos/504108568/a-escritura-publica-de-compra-e-venda-de-bens-imoveis"><span style="font-weight: 400;">https://lucascezar.jusbrasil.com.br/artigos/504108568/a-escritura-publica-de-compra-e-venda-de-bens-imoveis</span></a></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Smart Contracts: Building Blocks for Digital Markets (Nick Szabo, 1996) &#8211; </span><a href="http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html"><span style="font-weight: 400;">http://www.fon.hum.uva.nl/rob/Courses/InformationInSpeech/CDROM/Literature/LOTwinterschool2006/szabo.best.vwh.net/smart_contracts_2.html</span></a></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Secure Property Titles with Owner Authority </span><span style="font-weight: 400;">(Nick Szabo, 1998) &#8211; </span><a href="http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.51"><span style="font-weight: 400;">http://nakamotoinstitute.org/secure-property-titles/#selection-7.7-7.51</span></a></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Vitalik Buterin &#8211; </span><a href="https://pt.wikipedia.org/wiki/Vitalik_Buterin"><span style="font-weight: 400;">https://pt.wikipedia.org/wiki/Vitalik_Buterin</span></a></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Ethereum &#8211; <a href="https://en.wikipedia.org/wiki/Ethereum">https://pt.wikipedia.org/wiki/Ethereum</a></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Peço desculpas se alguns estão em inglês, se alguém quiser material mais avançado em português, por favor comente aqui e poderemos encontrar ou mesmo criá-lo.</span></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

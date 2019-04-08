@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Fernanda Momo &#8211; CryptoBags</title>
+	<atom:link href="/author/fernandamomo/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A fonte de conhecimento crypto</description>
+	<lastBuildDate>
+	Mon, 16 Jul 2018 21:54:27 +0000	</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/03/cropped-favicon-1-32x32.png</url>
+	<title>Fernanda Momo &#8211; CryptoBags</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blockchain: muito além das moedas digitais</title>
+		<link>/blockchain-muito-alem-das-moedas-digitais/</link>
+				<pubDate>Sat, 21 Apr 2018 13:04:00 +0000</pubDate>
+		<dc:creator><![CDATA[Fernanda Momo]]></dc:creator>
+				<category><![CDATA[Blockchain]]></category>
+		<category><![CDATA[Tecnologia]]></category>
+
+		<guid isPermaLink="false">http://34.206.71.53/?p=699</guid>
+				<description><![CDATA[Aquela tradicional pergunta de quem nasceu primeiro, o ovo ou a galinha, no contexto atual, pode ser aplicada aos conceitos]]></description>
+								<content:encoded><![CDATA[<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Aquela tradicional pergunta de quem nasceu primeiro, o ovo ou a galinha, no contexto atual, pode ser aplicada aos conceitos de Bitcoin e Blockchain. Em muitos casos eles são descritos como sinônimo (o que é um erro!) ou apenas dizem que um é o motor de funcionamento do outro. Bom, como vocês já leram em outros posts aqui do CryptoBags (se não leram, acessem aqui! Rápido! hehe) quando Satoshi Nakamoto escreveu seu artigo com uma solução para o problema do gasto duplo da economia e possibilitou a exclusão do intermediário das transações, ele deu origem ao Bitcoin. O Bitcoin nesse caso é a solução final dos problemas levantados por Nakamoto, mas o que está por trás dessa solução é toda uma metodologia e estrutura tecnológica que chamamos de Blockchain. Portanto, respondendo à pergunta de quem nasceu primeiro: os dois nasceram juntos, pois um é a consequência do outro.</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><b>O mais interessante a se questionar agora é o que mais a Blockchain pode fazer? Ela é apenas aplicável a Bitcoin? Em que áreas essa tecnologia pode ser utilizada?</b></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Saibam inicialmente que a Bitcoin não é a única aplicação para a Blockchain de forma que diversas empresas estão interessadas nesta tecnologia tendo em vista seu potencial disruptivo. Os potenciais usos dessa tecnologia são tão grandes que os autores do livro Blockchain Revolution destacam que a tecnologia que provavelmente terá o maior impacto sobre o futuro da economia mundial, superando os carros autônomos, energia solar ou a inteligência artificial é a Blockchain.</span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Conceitualmente, entende-se a Blockchain como um banco de dados distribuído,</span><span style="font-weight: 400;"> compartilhado</span><span style="font-weight: 400;"> e criptografado que serve como um repositório público irreversível e incorruptível de informações. A partir dessa estrutura tecnológica é possível, pela primeira vez, que pessoas não relacionadas cheguem a um consenso sobre a ocorrência de uma determinada transação ou evento sem a necessidade de um intermediário. E tendo em vista essas características, pesquisadores e organizações estudam e testam possibilidades de uso dessa tecnologia para além das moedas digitais. </span></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Nesse sentido, através de uma pesquisa realizada em artigos científicos publicados sobre esse tema até 2017 foi possível identificar uma variedade de possibilidades do uso da Blockchain, de forma que há diversas áreas do conhecimento estudando esse tema e não apenas áreas mais técnicas e que abordem a forma que a Blockchain deve estar estruturada. Há estudos que abordam temas como, por exemplo, regulação e possíveis aplicações em diversas áreas. Por fim destaca-se que as áreas de conhecimento dos artigos analisados foram: Ciências Sociais Aplicadas, Ciências Exatas e da Terra, Engenharias, Ciência da Saúde e Linguística, Letras e Artes. (Caso queiram ver mais resultados deste estudo, clique aqui).</span></p>
+<p style="text-align: justify;"><img class="wp-image-708 alignleft" src="/wp-content/uploads/2018/04/30742713_1850247328351480_7031274806909599744_n-300x179.png" alt="áreas de aplicação para a blockchain" width="333" height="199" srcset="/wp-content/uploads/2018/04/30742713_1850247328351480_7031274806909599744_n-300x179.png 300w, /wp-content/uploads/2018/04/30742713_1850247328351480_7031274806909599744_n.png 567w" sizes="(max-width: 333px) 100vw, 333px" /></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Como é possível visualizar na figura, cada área do conhecimento visualiza potenciais de uso e desafios nesta tecnologia. Por exemplo, os estudos da área de Ciências Sociais e Aplicadas discutem sobre possíveis regulamentos, prevenção de Fraudes, enquanto que as áreas de Ciências Exatas e da Terra e Engenharias estão focadas no aprimoramento dessa tecnologia, compartilhamento de informações, uso de dispositivos relacionados a IoT (internet das coisas), eficiência energética.</span> <span style="font-weight: 400;">As Ciências da Saúde visualizam a Blockchain como uma oportunidade em relação a segurança dos dados dos pacientes e a área de Linguística, Letras e Artes estuda a possibilidade do uso da Blockchain para escriturar os direitos autorais. </span></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">Portanto, a Blockchain não está restrita a criptomoedas e envolve também o uso dessa tecnologia para registrar propriedades de ativos de diversas naturezas (ações, imóveis, automóveis, bolsas</span> <span style="font-weight: 400;">de luxo, obra de arte), e até a utilização para registros públicos como destacado no artigo Corporate Governance and Blockchain. Além disso, há a possibilidade de aplicações dessa tecnologia que vão além da moeda, finanças e mercado que ocorrem particularmente as áreas de governo, saúde, ciência, cultura e arte.</span></span></p>
+<p style="text-align: justify;"><span style="font-family: helvetica, arial, sans-serif;"><b>Muita coisa né? É fácil compreender o porquê esta tecnologia está sendo considerada como a internet dos negócios.</b></span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Lógico que o que vimos aqui é apenas um resumo inicial sobre esse tema! Certamente teremos muito mais o que conversar sobre isso (o que é maravilhoso, não?! Haha). Nos próximos artigos vamos aprofundar nossos conhecimentos em casos de uso dessa Tecnologia… e, caso já queiram explorar um pouco mais esse tema, acessem os textos indicados a seguir e que foram a base para construção deste artigo.</span></p>
+<p style="text-align: justify;"><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">Abraços!</span></p>
+<p style="text-align: justify;">
+<p><span style="font-family: helvetica, arial, sans-serif;"><b>FONTES:</b></span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">MOMO, F.S.; BEHR, A. Blockchain: perfil das pesquisas divulgadas em periódicos acadêmicos.</span><b> XX SEMEAD </b><span style="font-weight: 400;">– Seminários em Administração, USP – São Paulo, 2017.</span></span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">NAKAMOTO, S. </span><b>Bitcoin</b><span style="font-weight: 400;">: a peer-to-peer electronic cash system. 2008. Disponível em: </span></span><span style="font-weight: 400; font-family: helvetica, arial, sans-serif;">http://bitcoin.org/bitcoin.pdf</span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">TAPSCOTT, D.; TAPSCOTT, A. </span><b>Blockchain Revolution</b><span style="font-weight: 400;">. New York: Penguin Random House LLC, 2016.</span></span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">WRIGHT, A.; DE FILIPPI, P. </span><b>Decentralized Blockchain Technology and the Rise of Lex Cryptographia</b><span style="font-weight: 400;">. New York: Social Science Research Network, 2015.</span></span></p>
+<p><span style="font-family: helvetica, arial, sans-serif;"><span style="font-weight: 400;">YERMACK, D. </span><b>Corporate Governance and Blockchains</b><span style="font-weight: 400;">. Review of Finance. v. 21, n. 1, 2017.</span></span></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>investimento &#8211; CryptoBags</title>
+	<atom:link href="/tag/investimento-pt/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>A fonte de conhecimento crypto</description>
+	<lastBuildDate>
+	Mon, 16 Jul 2018 21:54:27 +0000	</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>/wp-content/uploads/2018/03/cropped-favicon-1-32x32.png</url>
+	<title>investimento &#8211; CryptoBags</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Criptoativos: dinâmica de mercado</title>
+		<link>/criptoativos-dinamica-de-mercado/</link>
+				<pubDate>Sat, 17 Feb 2018 08:28:44 +0000</pubDate>
+		<dc:creator><![CDATA[@cryptoretto]]></dc:creator>
+				<category><![CDATA[Investimentos]]></category>
+		<category><![CDATA[capitais]]></category>
+		<category><![CDATA[coins]]></category>
+		<category><![CDATA[criptoativos]]></category>
+		<category><![CDATA[investimento]]></category>
+		<category><![CDATA[mercado]]></category>
+		<category><![CDATA[tokens]]></category>
+
+		<guid isPermaLink="false">http://34.206.71.53/?p=461</guid>
+				<description><![CDATA[Para compreendermos melhor o mercado crypto é importante entendermos alguns conceitos básicos do mercado de capitais. Vamos a eles! Mercado]]></description>
+								<content:encoded><![CDATA[<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Para compreendermos melhor o mercado crypto é importante entendermos alguns conceitos básicos do mercado de capitais. Vamos a eles!</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><span style="font-size: 14pt;">Mercado primário e secundário</span>                                       </strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Imagine que você e seu amigo querem abrir uma empresa para produzir cerveja artesanal. Vocês concordaram em investir a mesma quantia em dinheiro para dar início ao projeto e, portanto, cada um detém 50% das parcelas da cervejaria.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><img class="alignright" src="/wp-content/uploads/2018/02/beer.gif" alt="" width="371" height="278" /></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Após alguns meses de operação, vocês chegam a conclusão de que precisam aumentar a produção para aumentar as vendas. Para isso, cada um de vocês vende 5% das parcelas da companhia para um novo investidor. Este investidor detém agora 10% da companhia e recebe este mesmo percentual dos lucros obtidos.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Alguns anos mais tarde vocês decidem abrir 10 novas cervejarias no país e precisam arrecadar mais recursos, vendendo mais uma parcela da companhia. Desta vez, nenhum investidor está disposto a comprar uma fatia tão grande da empresa. Vocês optam então por uma <strong>Oferta Pública Inicial (IPO – <em>Initial Public Offering</em>)</strong>, transformando a cervejaria em uma <strong>Empresa de Capital Aberto</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Desta forma, vocês disponibilizam a um determinado grupo de investidores milhares de frações da empresa, tornando o investimento mais acessível e possibilitando a captação dos recursos. Estas frações são chamadas de <strong>ações</strong>. Todas estas etapas de investimento constituem o <strong>Mercado Primário de Capitais</strong>, pois as ações são compradas diretamente da empresa.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">À medida que a cervejaria aumenta sua receita, as ações se tornam mais valiosas e os investidores que participaram da IPO decidem vender suas parcelas ao público. Esta venda ocorre através de uma <strong>Bolsa de Valores (<em>Stock Exchange</em>)</strong>, onde outros investidores podem adquirir ações da companhia. Este estágio de investimento configura o <strong>Mercado Secundário de Capitais</strong>, pois as ações são compradas em segunda mão dos investidores iniciais.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><img class="alignleft" src="/wp-content/uploads/2018/02/stock-exchange.gif" alt="" width="480" height="270" /></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;"><strong>Lei da Oferta e da Procura</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Agora suponha que a cervejaria não está apresentando bons resultados e os lucros estão em queda. Consequentemente, as ações da companhia deixarão de ser rentáveis e os investidores buscarão vender suas parcelas para comprar ações de outras empresas com melhores resultados.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Alice, Bob e Alan possuem 100 ações cada da cervejaria. Os três decidem colocar a venda suas ações por R$50,00. Daniel quer comprar 100 ações da empresa pois tem uma expectativa de recuperação da companhia.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Alice sabe que Daniel é um dos poucos interessados em comprar as ações e resolve baixar o valor das suas parcelas para R$49,00, tentando bater os seus concorrentes. Bob percebe o mesmo e reduz o preço de suas ações para R$47,00. Alan tem mais pressa em vender suas ações e aceita reduzir o valor para R$45,00. Daniel obviamente compra as ações de Alan, que apresentou a melhor oferta.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Logo, as ações antes negociadas a R$50,00 são agora negociadas a R$45,00, uma queda de <strong>10%</strong>. Isto ocorre porque a <strong>oferta </strong>(Alice, Bob e Alan) é superior à <strong>demanda</strong> (Daniel), portanto o preço cai. Em outras palavras, a <strong>força vendedora </strong>é mais intensa que a <strong>força compradora</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Se a cervejaria estivesse apresentando consecutivos resultados positivos o movimento exatamente oposto ocorreria. Haveriam mais compradores e menos vendedores, levando o preço da ação a um valor maior. Sendo assim, o desejo de compra e venda das pessoas é o que movimenta o preço dos capitais, bens ou serviços. Estas relações configuram o princípio fundamental do mercado: <strong>a lei da oferta e da procura</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;"><strong>Capitalização de Mercado</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">10 anos se passaram e a cervejaria é hoje a terceira maior do país. Você decide que é hora de vender a empresa e desfrutar da tão esperada aposentadoria. Mas como definir o preço de venda?</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Existem diversas formas de estimar o valor de uma companhia com relativa precisão, mas neste post será apresentado apenas o método conhecido como <strong>Capitalização de Mercado (<em>Market Cap</em>)</strong>. Um método simples e muito útil para auxiliar na análise do investimento.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Suponha que a sua empresa possua 100.000 ações em determinada bolsa de valores. Cada ação está sendo negociada a R$10,00. A soma de todas as parcelas da empresa é, portanto:</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>100.000 x R$10,00 = R$1.000.000,00 (1 milhão de reais)</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Este é considerado o <strong><em>Market Cap</em></strong> da companhia. Sendo assim, à medida que o valor de negociação das ações aumenta, o valor de mercado da empresa também aumenta.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">O segundo fator do nosso cálculo é número de ações em circulação, chamado de <strong><em>Circulating Supply</em></strong>. Considere que a empresa deseja colocar em circulação mais 100.000 ações. Se o número de ações aumentar, o <em>Market Cap</em> aumenta também, correto? <strong>Não!</strong> O que acontecerá na verdade é um aumento na <strong>oferta </strong>de ações, e como vimos antes, isto resulta em uma queda no preço.</span></p>
+<hr />
+<p style="text-align: center;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="color: #ff0000;"><em>Lembre-se desta lição: <strong>o valor não pode ser criado através da simples impressão/emissão de suprimento</strong></em></span>.</span></p>
+<p style="text-align: justify;"><img class="wp-image-439 aligncenter" src="/wp-content/uploads/2018/02/money-print.gif" alt="" width="420" height="236" /></p>
+<hr />
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Portanto, se levarmos em conta que a cervejaria manteve o mesmo o mesmo valor de mercado durante a emissão das novas ações, a redução no valor das ações é dada por:</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>R$1.000.000,00 / 200.000 = R$5,00 </strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Por que o <strong><em>Market Cap</em></strong> é tão importante? Porque podemos avaliar a dimensão da empresa, os riscos associados e os ganhos esperados. Uma empresa com alto <em>Market Cap</em> usualmente é mais sólida e menos impactada por oscilações na economia, mas tende a crescer mais lentamente. Uma empresa com baixo <em>Market Cap</em> está mais suscetível às movimentações da economia, mas possui maior espaço para crescimento.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">De forma grosseira, podemos afirmar que investimentos em empresas com alto valor de mercado tendem a ser menos rentáveis e mais seguros. Em contra-partida, investimentos em empresas de baixo <em>Market Cap</em> podem ser altamente rentáveis, mas estão associados a um risco elevado.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif; font-size: 14pt;"><strong>Criptoativos</strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">O mercado crypto opera de forma muito similar ao mercado convencional de capitais, seguindo as mesmos conceitos que já aprendemos. A diferença está nos ativos que são negociados. Vamos a eles! (OBS: Todos os termos usados nesse post podem ser conferidos no <strong>glossário</strong> do CryptoBags.)</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Podemos classificar os C<strong>ryptoativos</strong> (<strong><em>C</em><em>ryptoassets</em></strong>) em dois grupos: <strong>moedas e tokens</strong>.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>Moedas</strong><strong> </strong>são aquelas que foram criadas para servir como um meio de troca, com a ideia de substituir as moedas estatais que conhecemos, chamadas de <em><strong>Fiat</strong></em> (USD, BRL, EUR, etc). A mais famosa sem dúvidas é o <strong>Bitcoin</strong>. </span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Criado pelo misterioso Satoshi Nakamoto em 2009, o Bitcoin abriu um mundo de possibilidades com a invenção da tecnologia <strong>Blockchain</strong>. Inúmeras outras moedas já foram criadas a partir do código do Bitcoin, tentando incorporar funcionalidades diferentes. Este grupo de moedas alternativas ao Bitcoin é chamado de <em><strong>Altcoins</strong></em> (tokens também podem ser considerados <em>altcoins</em>).</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Uma das características mais interessantes das criptomoedas se deve ao fato de que elas possuem um número limitado de unidades, diferentemente do dinheiro que conhecemos, que é impresso de tempos em tempos (veja mais detalhes no post <strong><a class="row-title" href="/wp-admin/post.php?post=17&amp;action=edit" aria-label="“Blockchain, Paradigm Shift: What It Is And How It Started” (Edit)">Blockchain: How It All Started</a></strong>). Além disto, as criptomoedas podem ser adquiridas de forma descentralizada, por qualquer indivíduo que tenha um computador e acesso à internet, através do processo chamado de <strong>Mineração </strong>(<strong><em>Mining</em></strong>).</span></p>
+<p><img class="wp-image-483 alignright" src="/wp-content/uploads/2018/02/hold-bitcoin.gif" alt="" width="298" height="343" /></p>
+<p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><em><strong>Principais moedas: Bitcoin (BTC), Litecoin (LTC), Monero (XMR), Dash (DASH).</strong></em></span></p>
+<p style="text-align: justify;"><strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Tokens</span></strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;"> também</span><span style="font-family: 'trebuchet ms', geneva, sans-serif;"> são criados para funcionar como um meio de troca, su</span><span style="font-family: 'trebuchet ms', geneva, sans-serif;">a diferença é que são destinados a algum mercado específico. Um token pode valer um voto, uma unidade de energia, um pedaço de terra ou uma recompensa. Diferentemente das moedas, os tokens não possuem uma Blockchain própria. Eles são criados dentro da Blockchain de uma moeda, através de um sistema baseado em <strong>Contratos Inteligentes </strong>(<em><strong>Smart Contracts</strong></em>). A plataforma mais conhecida para a criação de tokens é a <strong>Ethereum</strong>.</span></p>
+<p><em><strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Principais plataformas: Ethereum (ETH), Neo (NEO), Nem (XEM), Waves (WAVES).</span></strong></em></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Todos estes conceitos podem parecer complicados, mas os tokens já estão presentes nas nossas vidas há muito tempo. Ingressos de cinema, passagens de avião, tickets-refeição e até mesmo o seu título de eleitor são tokens que lhe garantem direitos para propósitos específicos. Os tokens são inicialmente adquiridos através de um processo chamado de <em><strong>Initial Coin Offering</strong></em><em> </em>ou <strong>ICO</strong><em><strong> </strong></em>(similar ao sistema da IPO, como vimos anteriormente).</span></p>
+<p><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong><em>Principais tokens: EOS (EOS), VeChain (VEN), Icon (ICX), Qtum (QTUM).</em></strong></span></p>
+<p><img class="wp-image-484 alignleft" src="/wp-content/uploads/2018/02/hold-ethereum.gif" alt="" width="285" height="420" /></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">As ICO&#8217;s, diferentemente das IPO&#8217;s, servem para arrecadar fundos para o projeto de elaboração do sistema de tokens e qualquer pessoa pode participar. A compra é feita com criptomoedas da plataforma na qual o token está sendo criado (ETH, por exemplo).</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Tanto tokens como moedas também podem ser adquiridos em <em><strong>Cryptocurrency Exchanges</strong></em>, que são corretoras especializadas na comercialização dos criptoativos. A diferença é que as compras e vendas são efetuadas pelo próprio investidor na corretora, e não através de instituições financeiras. Entenda melhor como funcionam estas corretoras acessando o post <a href="/investindo-no-mercado-crypto-por-onde-comeco/">Investindo no mercado crypto: por onde eu começo?</a></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><span style="font-size: 18.6667px;"><b>Ganhos e perdas</b></span></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Em uma bolsa de valores todas ações são compradas com <em>fiat.</em> A valorização ou desvalorização destas ações são quantificadas em dólar, real, euro, etc. No mercado crypto este sistema é um pouco diferente. Apenas as principais moedas podem ser compradas com <em>fiat</em>, como é o caso do Bitcoin ou do Ethereum, por exemplo.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">A grande maioria das moedas/tokens são comprados com Bitcoin. Portanto você usualmente deve realizar duas compras para adquirir uma <em>altcoin</em>. Esta peculiaridade faz com que as variações possam ser calculadas em <em>fiat</em> ou em Bitcoin (BTC). Isto é motivo de grande debate entre os principais investidores do mundo crypto, afinal, como mensurar melhor os lucros/perdas?</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Podemos enxergar esta situação sobre 3 pontos de vista distintos:</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>1º &#8211; <em>&#8220;O Bitcoin é uma bolha, não vai durar, ganhe o máximo que puder e tire seus lucros!&#8221;</em></strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Neste caso, é evidente que os lucros/perdas devam ser calculados em dólar. Afinal, não há sentido em acumular Bitcoin caso ele fracasse no futuro.</span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;"><strong>2º &#8211; <em>&#8220;Bitcoin e </em>fiat <em>vão coexistir, há casos onde um se aplica melhor do que o outro.&#8221;</em></strong></span></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Partindo desta hipótese, seria sábio dividir o investimento em duas parcelas com objetivos diferentes. Uma parcela para acumulação em Bitcoin e uma parcela para acumulação em dólar.</span></p>
+<p style="text-align: justify;"><strong><span style="font-family: 'trebuchet ms', geneva, sans-serif;">3º &#8211; <em>&#8220;O Bitcoin e as demais </em>altcoins <em>vão substituir as </em>fiats<em>, são limitados, descentralizados e mais seguros&#8221;</em></span></strong></p>
+<p style="text-align: justify;"><span style="font-family: 'trebuchet ms', geneva, sans-serif;">Esta terceira hipótese é sem dúvidas aquela na qual o CryptoBags acredita. A Blockchain e as <em>cryptocurrencies</em> surgiram para redistribuir a renda no mundo e facilitar as transações comerciais entre os indivíduos. Portanto, a meta é acumular Bitcoin!</span></p>
+<p style="text-align: justify;"><img class="size-full wp-image-486 aligncenter" src="/wp-content/uploads/2018/02/money-burn.gif" alt="" width="588" height="245" /></p>
+]]></content:encoded>
+										</item>
+	</channel>
+</rss>
